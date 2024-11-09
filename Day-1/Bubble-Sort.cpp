@@ -20,8 +20,8 @@ using namespace std;
 int main(){
     int arr[] = {10, 9, 8, 17, 6, 15, 4, 33, 20, 1};
     int n=10;
-    for(int i=0;i<n;i++){
-        for(int j=0;j<n-1;j++){
+    for(int i=1;i<n;i++){
+        for(int j=0;j<n-i;j++){
             if(arr[j] > arr[j+1]){
                 swap(arr[j], arr[j+1]);
             }

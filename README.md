@@ -1,6 +1,6 @@
 # Daily DSA Questions for Interview Preparation
 
-This repository is dedicated to solving two Data Structures and Algorithms (DSA) questions every day to sharpen problem-solving skills for technical interviews. Each question includes a well-documented solution, focusing on efficiency and clarity. This daily practice covers a range of topics to ensure a well-rounded understanding of core DSA concepts.
+This repository is dedicated to solving two Data Structures and Algorithms (DSA) questions every day to sharpen problem-solving skills for technical interviews. Each question includes a well-documented solution, focusing on efficiency and clarity. This daily practice covers a range of topics to ensure a well-rounded understanding of core DSA concepts .
 
 # Table of Contents
 # Purpose

@@ -1,6 +1,9 @@
 // Selection Sort
 
-// Selection sort is a sorting algorithm that fetches the smallest element from the given array and separates it from the array to the beginning position
+// Selection sort is a sorting algorithm that fetches the smallest element
+// from the given array and separates it from the array to the beginning position
+// Selection Sort is not a stable sorting algorithm
+
 
 #include <iostream>
 #include <vector>
